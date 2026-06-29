@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos ejecutados (solo subimos el notebook original)
+*_executed.ipynb
+
+# OS
+.DS_Store
